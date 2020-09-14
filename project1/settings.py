@@ -25,7 +25,7 @@ SECRET_KEY = '^h!wrv%r7r+kp##&ao3x6158f#+jw3x8)mo6$^j7%@p!u*uo@_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://beerusshop.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
